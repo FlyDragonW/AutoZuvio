@@ -26,5 +26,5 @@ python3 main.py
 ```
 
 ## Roadmap
-- [ ] 2⭐ - Mobile App version
-- [ ] 4⭐ - Auto Answer
+- [ ] 2⭐ - Auto Answer
+- [ ] 4⭐ - Mobile App version
